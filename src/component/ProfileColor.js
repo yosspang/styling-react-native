@@ -8,7 +8,7 @@ export default class ProfileColor extends Component {
             <View style={styles.container}>
                 <View style={styles.cardContainer}>
                     <View style={styles.cardImageContainer}>
-                        <Image style={styles.cardImage} source={require('./user.png')}/>
+                        <Image style={styles.cardImage} source={require('../assets/user.png')}/>
                     </View>
                 </View>
             </View>
